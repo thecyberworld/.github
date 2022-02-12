@@ -8,6 +8,11 @@ For more information, please see the article on [creating a default community he
 ## About
 [Learn more about us at our website](linktree.com/thecyberworld)
 
+### Latest YouTube videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
 ## Connect
 
 - [Join our Discord community here](https://discord.gg/QHBPq6xP5p)
