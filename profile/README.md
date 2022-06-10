@@ -1,9 +1,8 @@
-### <h1 align="center">Hi there👋, I'm <a href="https://kabir0x23.github.io/portfolio/">Kabir</a>!</h1>
-![thecyberworld](https://github.com/thecyberworld/.github/blob/main/profile/images/Github_thecyberworld.png "Kabir0x23")
+![thecyberworld](https://github.com/thecyberworld/.github/blob/main/profile/images/Github_thecyberworld.png "thecyberworld")
 
 ---
 
-## 🌌 About Community:
+## 👨‍💻 About thecyberworld Community:
 - We help new folks to get into <b> Cyber-security</b> field.
 - We resolve folk's <i> issues, doubts </i> relates to <b>Cyber-security</b>.
 - Guided more than 20k folks to get into <b> Cyber-security</b>.
