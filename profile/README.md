@@ -23,7 +23,7 @@ Join the <b> community </b> from here 👇
 </p>
 
 <p align="center">
-We <i> create content </i> on <b>social media</b>.
+We create <i> Educational</i> content on <b>social media</b>.
 <br>
    <a href="https://twitter.com/thecyberw0rld">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
