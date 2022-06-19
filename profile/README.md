@@ -2,7 +2,7 @@
 
 ---
 
-## 👨‍💻 About thecyberworld Community:
+## 👨‍💻 About Thecyberworld Community:
 - We help new folks to get into <b> Cyber-security</b> field.
 - We resolve folk's <i> issues, doubts </i> relates to <b>Cyber-security</b>.
 - Guided more than 20k folks to get into <b> Cyber-security</b>.
