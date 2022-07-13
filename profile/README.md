@@ -7,7 +7,7 @@
 ![thecyberworld](https://user-images.githubusercontent.com/97401889/178647625-fc83394d-1ccd-46ba-a3f9-db7a651bd280.png)
 
 <div align="center">
-    Thecyberworld is an open-source community.
+    Thecyberworld is an open-source cyber-security community.
     <br>
 </div>
 
