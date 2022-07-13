@@ -7,7 +7,7 @@
 ![thecyberworld](https://user-images.githubusercontent.com/97401889/178647625-fc83394d-1ccd-46ba-a3f9-db7a651bd280.png)
 
 <div align="center">
-    thecyberworld is an open-source community.
+    Thecyberworld is an open-source community.
     <br>
 </div>
 
@@ -21,7 +21,7 @@ Check the contributing guidelines in each repository for guidance on how to get 
 ---
 
 ### Want to join the community?
-Join the Cryptoverse Web3 GitHub Organisation by raising an [issue](https://github.com/thecyberworld/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) (you will be sent an invitation)
+Join the Thecyberworld GitHub Organisation by raising an [issue](https://github.com/thecyberworld/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) (you will be sent an invitation)
 
 <div>
   <b>Community</b> Website:
