@@ -27,7 +27,7 @@ Join the Thecyberworld GitHub Organisation by raising an [issue](https://github.
   <b>Community</b> Website:
   <br>
   <a href="https://thecyberhub.org/" >
-    <img src="https://img.shields.io/badge/thecyberhub.org-0d1117?style=for-the-badge&logo=data:tcwlogowebstie.png/png;base64,&logoColor=white">
+    <img src="https://img.shields.io/badge/thecyberhub.org-0d1117?logo=data:tcwlogowebstie.png/png;base64">
   </a>
 </div>
 
