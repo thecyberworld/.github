@@ -50,9 +50,11 @@ Connect with us on <b>social media</b>:
     <a href="https://twitter.com/thecyberw0rld">
         <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
+    <!--
     <a href="https://blog.thecyberhub.org">
         <img src="https://img.shields.io/badge/Hashnode-0d1117?style=for-the-badge&logo=hashnode&logoColor=white">
     </a>
+    -->
     <a href="https://www.instagram.com/thecyberw0rld">
         <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white">
     </a> 
