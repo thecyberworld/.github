@@ -1,15 +1,17 @@
 <div align="center">
     <h1>
-        Welcome to thecyberworld Community!
+        Welcome to Thecyberworld Community!
     </h1> 
 </div>
 
-![thecyberworld](https://user-images.githubusercontent.com/97401889/178647625-fc83394d-1ccd-46ba-a3f9-db7a651bd280.png)
+![thecyberworld](https://user-images.githubusercontent.com/44284877/207358244-0ceba8fb-6ff0-4d51-99c6-523dd57943e3.png "thecyberworld")
 
 <div align="center">
-    Thecyberworld is an open-source cyber-security community.
-    <br>
+    <h4>
+        Thecyberworld is an opensource cybersecurity community to help beginners to get started with cybersecurity and opensource.
+    </h4>
 </div>
+
 
 ---
 
@@ -19,11 +21,14 @@ That's great! We welcome all sorts of contributions from raising issues, startin
 Check the contributing guidelines in each repository for guidance on how to get started.
 
 ---
+<div align="center">
+<h3> Want to join the community? </h3> 
+Join the Thecyberworld GitHub Organisation by raising an <a href="https://github.com/thecyberworld/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization"> issue </a>  (you will be sent an invitation)
+  <br>
+  <br>
 
-### Want to join the community?
-Join the Thecyberworld GitHub Organisation by raising an [issue](https://github.com/thecyberworld/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) (you will be sent an invitation)
-
-<div>
+</div>
+<div align="center">
   <b>Community</b> Website:
   <br>
   <a href="https://thecyberhub.org/" >
@@ -31,7 +36,7 @@ Join the Thecyberworld GitHub Organisation by raising an [issue](https://github.
   </a>
 </div>
 
-<div>
+<div align="center">
 Join the <b> community </b> from here 👇
 <br>
   <a href="https://github.com/thecyberworld/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">
@@ -44,17 +49,12 @@ Join the <b> community </b> from here 👇
   </a>
 </div>
 
-<div>
+<div align="center">
 Connect with us on <b>social media</b>:
 <br>
     <a href="https://twitter.com/thecyberw0rld">
         <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
-    <!--
-    <a href="https://blog.thecyberhub.org">
-        <img src="https://img.shields.io/badge/Hashnode-0d1117?style=for-the-badge&logo=hashnode&logoColor=white">
-    </a>
-    -->
     <a href="https://www.instagram.com/thecyberw0rld">
         <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white">
     </a> 
