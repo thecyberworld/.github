@@ -21,7 +21,7 @@ That's great! We welcome all sorts of contributions from raising issues, startin
 Check the contributing guidelines in each repository for guidance on how to get started.
 
 ---
-<div align="center">
+<div align"center">
 <h3> Want to join the community? </h3> 
 Join the Thecyberworld GitHub Organisation by raising an <a href="https://github.com/thecyberworld/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization"> issue </a>  (you will be sent an invitation)
   <br>
@@ -31,8 +31,9 @@ Join the Thecyberworld GitHub Organisation by raising an <a href="https://github
 <div align="center">
   <b>Community</b> Website:
   <br>
+  <img src="https://user-images.githubusercontent.com/44284877/207346937-5c82dfeb-e46d-4d0c-8a8a-d5e87387910a.png" width="22" height="20"/>
   <a href="https://thecyberhub.org/" >
-    <img src="https://img.shields.io/badge/thecyberhub.org-0d1117?logo=data:tcwlogowebstie.png/png;base64">
+    <img src="https://img.shields.io/badge/thecyberhub.org-0d1117">
   </a>
 </div>
 
